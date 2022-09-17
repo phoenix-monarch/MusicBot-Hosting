@@ -14,4 +14,4 @@ GIT_REPO = Your Repo Link Make Sure To Start With github.com/
 
 GIT_TOKEN = Your Github Token
 
-GIT_NAME = Your Gihub User Name
+GIT_NAME = Your Github User Name
